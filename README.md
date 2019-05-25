@@ -6,6 +6,7 @@ C++ version will push after Python and lua.
 
 # Algothrism
 --
-#|Title|Solution| Difficulty
+
+#|Title|Solution| Difficulty
 ---|---|---|-------|
 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./algothrism/118_PascalTriangle/PythonSolution.py)| Easy
