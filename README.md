@@ -1,7 +1,7 @@
 # Leetcode
-C++/Python/Lua Leetcode practice and solution.  
-All solution will complete by three language(C++/Python/Lua).  
-Three language solution will not push in the same time.  
+`C++ | Python | Lua | TypeScript` Leetcode practice and solution.  
+All solution will complete by four language.  
+Lnguage solution will not push in the same time.  
 C++ version will push after Python and lua.
 
 # Algothrism
